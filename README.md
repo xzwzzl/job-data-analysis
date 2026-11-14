@@ -14,7 +14,7 @@
 - Pandas、NumPy：数据清洗、特征处理、统计分析
 - Matplotlib：可视化绘图
 - Jupyter Notebook：交互式分析
-- MySQL（可选）：清洗后数据入库，SQL查询分析
+- MySQL ：清洗后数据入库，SQL查询分析
 
 ## 项目目录结构
 - data/
@@ -35,8 +35,8 @@
 4. 业务总结：输出数据分析岗求职建议
 
 ## 在线演示
-👉 和鲸社区在线Notebook（等我上传后把链接替换）：
-https://www.heywhale.com/xxx
+👉 和鲸社区在线Notebook ：
+https://www.heywhale.com/mw/project/6af8596d8d767b3ad03451de
 
 ## 免责声明
 1. 本项目仅用于个人数据分析学习练习，不用于任何商业用途；
